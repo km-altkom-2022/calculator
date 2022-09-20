@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/kmaltkom2022/Parts%20Unlimited%20-%20Module01/_apis/build/status/km-altkom-2022.calculator?branchName=master)](https://dev.azure.com/kmaltkom2022/Parts%20Unlimited%20-%20Module01/_build/latest?definitionId=6&branchName=master)
+
